@@ -4,8 +4,8 @@ Estos son proyectos en los que no seguí ninguna guía o tutorial. Solamente us�
 
 ### Gest (en construcción)
 
-- Live demo: https://gest-rodrigo-quevedo.onrender.com/
-- Source code: https://github.com/rodrigo-quevedo/Gest
+- Live demo: [gest-rodrigo-quevedo.onrender.com](https://gest-rodrigo-quevedo.onrender.com/)
+- Source code: [/rodrigo-quevedo/Gest](https://github.com/rodrigo-quevedo/Gest)
   
 ![Gest website icon](https://github.com/rodrigo-quevedo/Gest/blob/master/frontend/src/media/website_icon.png) 
 
