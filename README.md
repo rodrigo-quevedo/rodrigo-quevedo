@@ -15,6 +15,8 @@ Aplicación web fullstack (stack MERN) pensada para un negocio que quiere tener 
 - Carga de ventas a los clientes
 - Historial de compras y ventas
 - Cálculo de gastos, ventas y ganancia neta
+- Sugerencias de autocompletado en cada searchbox/input (en base a la información de la cuenta)
+- Gráficos estadísticos (finanzas, compras y ventas).
 
 Cuenta con registro y login abierto al público, también ofrece cuentas demo para probar la app sin necesidad de registrarse. 
 
